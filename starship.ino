@@ -1,4 +1,4 @@
-// Project 01 for Genuino projects book
+// Project 01 from Genuino starter kit projects book
 
 int switchState = 0;
 
